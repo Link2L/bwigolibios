@@ -14,7 +14,7 @@ s.author = { "ARMANDO CERVANTES" => "ville1@live.com.mx" }
 
 s.homepage = "https://bwigo.com"
 
-s.source = { :git => "https://github.com/ArmandoCervantes/bwigosuccess.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/Link2L/bwigolibios.git", :tag => "#{s.version}"}
 
 s.framework = "UIKit"
 
